@@ -1,0 +1,34 @@
+# Private working notes
+reflections/
+
+# IDE / runtime
+ide/
+debug/
+projects/
+backups/
+file-history/
+tasks/
+paste-cache/
+cache/
+shell-snapshots/
+todos/
+history.jsonl
+
+# Sensitive / local
+.credentials.json
+settings.json
+*.local.json
+*.local.md
+settings.local.json
+
+# Third-party
+plugins/
+
+# Never track JSON or shell scripts
+*.json
+*.sh
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*.lock
